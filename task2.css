@@ -1,0 +1,37 @@
+.btn{
+	background: black;
+	color: #fff;
+}
+.btn:hover{
+	background: red;
+}
+.dropDown{
+	background: #9c9797;
+}
+.table{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin-bottom: 10px;
+}
+.th{
+	background-color: darkviolet;
+	color: white;
+	border: 1px solid white;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.td{
+	font-weight: bold;
+	border: 1px solid black;
+	text-align: center;
+}
+tr:nth-child(even) {background-color: pink;}
+tr:nth-child(odd) {background-color: lightblue;}
+.label{
+	width: 250px;
+	display: inline-block;
+	text-align: right;
+}
+.alignBtn{
+	padding-left: 250px;
+}
