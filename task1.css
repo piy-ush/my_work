@@ -1,0 +1,27 @@
+.btn{
+	background: black;
+	color: #fff;
+}
+.btn:hover{
+	background: red;
+}
+.dropDown{
+	background: #9c9797;
+}
+.table{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin-bottom: 10px;
+}
+.th{
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.td{
+	font-weight: bold;
+	border: 1px solid black;
+	text-align: center;
+}
